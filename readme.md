@@ -68,10 +68,7 @@ Use the taxonomy for the top hit in the BLAST output to decide if the query sequ
   sp|P49577|ALF2_PLABA Fructose-bisphosphate aldolase 2 OS=Plasmo...  545     0.0   
   sp|Q86A67|ALF_DICDI Fructose-bisphosphate aldolase OS=Dictyoste...  422     2e-146
   sp|O65581|ALFC5_ARATH Fructose-bisphosphate aldolase 5, cytosol...  417     6e-145
-  sp|P29356|ALF_SPIOL Fructose-bisphosphate aldolase, cytoplasmic...  397     1e-136
-  sp|Q42690|ALFC_CHLRE Fructose-bisphosphate aldolase 1, chloropl...  393     4e-135
- 
-
+  
 In SwissProt, the five characters before the underscore in a protein identifier correspond to the organism abbreviation. The top hit in the BLAST output (sp|P14223|ALF_PLAFA) corresponds to the fructose-bisphosphate aldolase protein from the organism Plasmodium falciparum.
 
 The script is datParser.py and is found on the server at /resources/binp29/Data/malaria/
@@ -237,8 +234,8 @@ cat RAxML_bestTree* > input.tre
 phylip consense
 #it askes for input witch will be input.tre
 ``` 
-Download the tree file from server and uppload it in this website.  
-The trees can be visualized at: http://itol.embl.de/  
+Download the tree file from server and uppload it in this website: http://itol.embl.de/
+The trees can be visualized at: https://itol.embl.de/tree/1302358190436061677844647   
 
 
 ![image](https://user-images.githubusercontent.com/112621611/222738867-6dd9ea93-b7eb-4057-96d2-0fb45912e153.png)
