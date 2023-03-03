@@ -240,4 +240,6 @@ phylip consense
 Download the tree file from server and uppload it in this website.  
 The trees can be visualized at: http://itol.embl.de/  
 
-![alt text](blob:null/338faa52-a02e-4a86-a52c-f84f18686865)
+
+![image](https://user-images.githubusercontent.com/112621611/222738867-6dd9ea93-b7eb-4057-96d2-0fb45912e153.png)
+
